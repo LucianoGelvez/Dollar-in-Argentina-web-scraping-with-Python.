@@ -1,0 +1,8 @@
+2024-09-27 08:59:04,609 - INFO - Iniciando el script de web scraping
+2024-09-27 08:59:04,772 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 08:59:24,805 - INFO - Iniciando el script de web scraping
+2024-09-27 08:59:25,016 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 08:59:31,010 - INFO - Iniciando el script de web scraping
+2024-09-27 08:59:31,177 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 09:01:17,628 - INFO - Iniciando el script de web scraping
+2024-09-27 09:01:17,815 - INFO - Datos guardados exitosamente en datos_dolar.csv
