@@ -6,3 +6,151 @@
 2024-09-27 08:59:31,177 - INFO - Datos guardados exitosamente en datos_dolar.csv
 2024-09-27 09:01:17,628 - INFO - Iniciando el script de web scraping
 2024-09-27 09:01:17,815 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 09:26:09,032 - INFO - Iniciando el script de web scraping
+2024-09-27 09:26:09,258 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 09:26:34,048 - INFO - Iniciando el script de web scraping
+2024-09-27 09:26:34,259 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 09:38:02,273 - INFO - Iniciando el script de web scraping
+2024-09-27 09:38:02,497 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 09:39:32,116 - INFO - Iniciando el script de web scraping
+2024-09-27 09:39:32,300 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 09:44:25,822 - INFO - Iniciando el script de web scraping
+2024-09-27 09:44:26,743 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 11:42:27,360 - INFO - Iniciando el script de web scraping
+2024-09-27 11:42:27,641 - ERROR - Error durante la ejecución del script: 'NoneType' object has no attribute 'text'
+2024-09-27 11:42:51,910 - INFO - Iniciando el script de web scraping
+2024-09-27 11:42:52,130 - ERROR - Error durante la ejecución del script: 'NoneType' object has no attribute 'text'
+2024-09-27 11:44:42,486 - INFO - Iniciando el script de web scraping
+2024-09-27 11:44:42,712 - ERROR - Error durante la ejecución del script: 'NoneType' object has no attribute 'text'
+2024-09-27 11:45:00,911 - INFO - Iniciando el script de web scraping
+2024-09-27 11:45:01,128 - ERROR - Error durante la ejecución del script: 'NoneType' object has no attribute 'text'
+2024-09-27 11:45:55,797 - INFO - Iniciando el script de web scraping
+2024-09-27 11:45:55,978 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-27 11:46:39,303 - INFO - Iniciando el script de web scraping
+2024-09-27 11:46:39,526 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-28 10:52:49,841 - INFO - Iniciando el script de web scraping
+2024-09-28 10:52:50,139 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 08:35:43,515 - INFO - Iniciando el script de web scraping
+2024-09-29 08:35:43,817 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 13:28:36,948 - INFO - Iniciando el script de web scraping
+2024-09-29 13:28:37,335 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 13:29:19,025 - INFO - Iniciando el script de web scraping
+2024-09-29 13:29:19,241 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 13:30:11,864 - INFO - Iniciando el script de web scraping
+2024-09-29 13:30:12,085 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 13:31:41,545 - INFO - Iniciando el script de web scraping
+2024-09-29 13:31:41,768 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 13:32:05,957 - INFO - Iniciando el script de web scraping
+2024-09-29 13:32:06,145 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 13:32:25,118 - INFO - Iniciando el script de web scraping
+2024-09-29 13:32:25,315 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 14:07:28,497 - INFO - Iniciando el script de web scraping
+2024-09-29 14:07:28,965 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 14:09:21,037 - INFO - Iniciando el script de web scraping
+2024-09-29 14:09:21,664 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 14:13:24,042 - INFO - Iniciando el script de web scraping
+2024-09-29 14:13:24,294 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 14:15:13,770 - INFO - Iniciando el script de web scraping
+2024-09-29 14:15:13,990 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 14:18:20,201 - INFO - Iniciando el script de web scraping
+2024-09-29 14:18:20,230 - INFO - Iniciando el script de web scraping
+2024-09-29 14:18:20,458 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:18:20,478 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:18:32,613 - INFO - Iniciando el script de web scraping
+2024-09-29 14:18:32,864 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:18:54,789 - INFO - Iniciando el script de web scraping
+2024-09-29 14:18:55,016 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:19:42,143 - INFO - Iniciando el script de web scraping
+2024-09-29 14:19:42,415 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:24:56,590 - INFO - Iniciando el script de web scraping
+2024-09-29 14:24:57,072 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:26:30,181 - INFO - Iniciando el script de web scraping
+2024-09-29 14:26:30,397 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:26:37,833 - INFO - Iniciando el script de web scraping
+2024-09-29 14:26:38,003 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:27:02,948 - INFO - Iniciando el script de web scraping
+2024-09-29 14:27:03,147 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:27:19,905 - INFO - Iniciando el script de web scraping
+2024-09-29 14:27:20,129 - ERROR - Error durante la ejecución del script: [Errno 13] Permission denied: 'datos_dolar.csv'
+2024-09-29 14:27:43,365 - INFO - Iniciando el script de web scraping
+2024-09-29 14:27:43,536 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 14:28:05,003 - INFO - Iniciando el script de web scraping
+2024-09-29 14:28:05,231 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 14:28:18,105 - INFO - Iniciando el script de web scraping
+2024-09-29 14:28:19,321 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 14:31:05,184 - INFO - Iniciando el script de web scraping
+2024-09-29 14:31:05,409 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:16:28,712 - INFO - Iniciando el script de web scraping
+2024-09-29 20:16:29,073 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:22:27,055 - INFO - Iniciando el script de web scraping
+2024-09-29 20:22:27,705 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:27:13,100 - INFO - Iniciando el script de web scraping
+2024-09-29 20:27:13,659 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:28:54,762 - INFO - Iniciando el script de web scraping
+2024-09-29 20:28:56,074 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:30:48,067 - INFO - Iniciando el script de web scraping
+2024-09-29 20:30:48,521 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:34:13,682 - INFO - Iniciando el script de web scraping
+2024-09-29 20:34:14,146 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:37:55,422 - INFO - Iniciando el script de web scraping
+2024-09-29 20:37:55,648 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:39:33,836 - INFO - Iniciando el script de web scraping
+2024-09-29 20:39:34,062 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:40:27,041 - INFO - Iniciando el script de web scraping
+2024-09-29 20:40:28,275 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:41:31,228 - INFO - Iniciando el script de web scraping
+2024-09-29 20:41:32,209 - ERROR - Error durante la ejecución del script: Response ended prematurely
+2024-09-29 20:47:37,403 - INFO - Iniciando el script de web scraping
+2024-09-29 20:47:37,679 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:49:35,176 - INFO - Iniciando el script de web scraping
+2024-09-29 20:49:35,857 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:51:24,322 - INFO - Iniciando el script de web scraping
+2024-09-29 20:51:24,837 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:51:36,149 - INFO - Iniciando el script de web scraping
+2024-09-29 20:51:37,384 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:57:24,693 - INFO - Iniciando el script de web scraping
+2024-09-29 20:57:24,998 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 20:58:00,103 - INFO - Iniciando el script de web scraping
+2024-09-29 20:58:00,298 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:00:06,956 - INFO - Iniciando el script de web scraping
+2024-09-29 21:00:08,485 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:00:57,624 - INFO - Iniciando el script de web scraping
+2024-09-29 21:00:57,917 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:08:49,885 - INFO - Iniciando el script de web scraping
+2024-09-29 21:08:50,389 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:12:29,234 - INFO - Iniciando el script de web scraping
+2024-09-29 21:12:29,511 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:13:16,210 - INFO - Iniciando el script de web scraping
+2024-09-29 21:13:16,462 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:13:28,121 - INFO - Iniciando el script de web scraping
+2024-09-29 21:13:28,680 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:14:01,375 - INFO - Iniciando el script de web scraping
+2024-09-29 21:14:03,315 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:15:14,456 - INFO - Iniciando el script de web scraping
+2024-09-29 21:15:14,957 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:16:05,404 - INFO - Iniciando el script de web scraping
+2024-09-29 21:16:05,648 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:23:55,524 - INFO - Iniciando el script de web scraping
+2024-09-29 21:23:56,116 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:26:01,951 - INFO - Iniciando el script de web scraping
+2024-09-29 21:26:02,283 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:26:44,377 - INFO - Iniciando el script de web scraping
+2024-09-29 21:26:44,770 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:27:09,473 - INFO - Iniciando el script de web scraping
+2024-09-29 21:27:09,683 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:27:25,129 - INFO - Iniciando el script de web scraping
+2024-09-29 21:27:25,378 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:28:39,143 - INFO - Iniciando el script de web scraping
+2024-09-29 21:28:39,398 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:28:57,842 - INFO - Iniciando el script de web scraping
+2024-09-29 21:28:58,310 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:29:22,244 - INFO - Iniciando el script de web scraping
+2024-09-29 21:29:22,762 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:31:44,603 - INFO - Iniciando el script de web scraping
+2024-09-29 21:31:44,947 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:32:28,307 - INFO - Iniciando el script de web scraping
+2024-09-29 21:32:28,553 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:32:45,595 - INFO - Iniciando el script de web scraping
+2024-09-29 21:32:46,821 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-29 21:33:04,964 - INFO - Iniciando el script de web scraping
+2024-09-29 21:33:05,195 - INFO - Datos guardados exitosamente en datos_dolar.csv

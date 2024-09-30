@@ -31,8 +31,22 @@ def main():
 
         for parent_div in general_div:
             child_divs = parent_div.find_all('div', class_='tile is-child')
-            for div in child_divs:
+            child_div_blue = parent_div.find_all('div', class_ = 'tile is-child only-mobile')
 
+            for div in child_div_blue:
+              if (div.a.text is not None) and ("blue" in div.a.text):
+                dic_dolar[div.a.text] = {}
+
+                for div_values in div.find_all('div', class_='values'):
+                  for div_buy in div_values.find_all('div', class_='compra'):
+                    split_buy = div_buy.text.split("$")
+                    
+                  for div_sell_wrapper in div_values.find_all('div', class_='venta'):
+                    for div_sell in div_sell_wrapper.find_all('div', class_='venta-wrapper'):
+                      split_sell = div_sell.text.split("$")
+                  dic_dolar[div.a.text] = split_buy, split_sell
+
+            for div in child_divs:
                 if (div.a.text is not None) and ("Oficial" in div.a.text):
                   dic_dolar[div.a.text] = {}
                   for div_values in div.find_all('div', class_='values'):
@@ -43,6 +57,7 @@ def main():
                       for div_sell in div_sell_wrapper.find_all('div', class_='venta-wrapper'):
                         split_sell = div_sell.text.split("$")
                     dic_dolar[div.a.text] = split_buy, split_sell
+
                 elif (div.a.text is not None) and ("MEP/Bolsa" in div.a.text):
                   dic_dolar[div.a.text] = {}
                   for div_values in div.find_all('div', class_='values'):
