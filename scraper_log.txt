@@ -154,3 +154,58 @@
 2024-09-29 21:32:46,821 - INFO - Datos guardados exitosamente en datos_dolar.csv
 2024-09-29 21:33:04,964 - INFO - Iniciando el script de web scraping
 2024-09-29 21:33:05,195 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-09-30 08:35:41,999 - INFO - Iniciando el script de web scraping
+2024-09-30 08:35:42,316 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-01 08:35:43,651 - INFO - Iniciando el script de web scraping
+2024-10-01 08:35:44,132 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-02 08:35:43,547 - INFO - Iniciando el script de web scraping
+2024-10-02 08:35:44,023 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-03 08:35:43,024 - INFO - Iniciando el script de web scraping
+2024-10-03 08:35:43,341 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-04 08:35:45,424 - INFO - Iniciando el script de web scraping
+2024-10-04 08:35:45,819 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-05 08:35:42,194 - INFO - Iniciando el script de web scraping
+2024-10-05 08:35:42,494 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-06 08:35:43,290 - INFO - Iniciando el script de web scraping
+2024-10-06 08:35:43,622 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-07 08:35:42,503 - INFO - Iniciando el script de web scraping
+2024-10-07 08:35:42,962 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-08 08:35:41,703 - INFO - Iniciando el script de web scraping
+2024-10-08 08:35:42,054 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-09 08:35:42,588 - INFO - Iniciando el script de web scraping
+2024-10-09 08:35:42,941 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-10 08:35:40,753 - INFO - Iniciando el script de web scraping
+2024-10-10 08:35:41,161 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-11 08:35:40,423 - INFO - Iniciando el script de web scraping
+2024-10-11 08:35:40,923 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-12 08:35:38,807 - INFO - Iniciando el script de web scraping
+2024-10-12 08:35:39,449 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-13 08:35:42,874 - INFO - Iniciando el script de web scraping
+2024-10-13 08:35:43,292 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-14 08:35:47,165 - INFO - Iniciando el script de web scraping
+2024-10-14 08:35:47,691 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-15 08:35:39,614 - INFO - Iniciando el script de web scraping
+2024-10-15 08:35:39,955 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-16 08:35:43,951 - INFO - Iniciando el script de web scraping
+2024-10-16 08:35:44,676 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-17 08:35:41,192 - INFO - Iniciando el script de web scraping
+2024-10-17 08:35:41,593 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-18 09:08:13,405 - INFO - Iniciando el script de web scraping
+2024-10-18 09:08:13,905 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-19 08:35:42,474 - INFO - Iniciando el script de web scraping
+2024-10-19 08:35:42,839 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-20 08:35:42,135 - INFO - Iniciando el script de web scraping
+2024-10-20 08:35:42,544 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-21 08:35:51,217 - INFO - Iniciando el script de web scraping
+2024-10-21 08:35:51,671 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-22 08:35:42,025 - INFO - Iniciando el script de web scraping
+2024-10-22 08:40:43,932 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-23 08:35:42,535 - INFO - Iniciando el script de web scraping
+2024-10-23 08:35:43,203 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-24 08:35:41,850 - INFO - Iniciando el script de web scraping
+2024-10-24 08:35:42,253 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-25 08:35:41,891 - INFO - Iniciando el script de web scraping
+2024-10-25 08:35:42,368 - INFO - Datos guardados exitosamente en datos_dolar.csv
+2024-10-25 09:15:00,167 - INFO - Iniciando el script de web scraping
+2024-10-25 09:15:00,602 - WARNING - Formato de fecha inválido, usando fecha actual: 25/10/24 09:15
+2024-10-25 09:15:00,629 - INFO - Datos guardados exitosamente en datos_dolar.csv
